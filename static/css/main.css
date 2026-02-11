@@ -6,14 +6,22 @@
   box-sizing: border-box;
 }
 
+/* =========================================
+   ROOT VARIABLES – LIGHT THEME
+========================================= */
+:root {
+  /* ===== Betűk ===== */
+  --font-family-base: "Spartan", sans-serif;
+  --font-family-title: "Comfortaa", sans-serif;
+}
+
 html {
   line-height: 1.6;
 }
 
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, sans-serif;
+  font-family: var(--font-family-base);
   font-size: 1rem;
 }
 
@@ -87,6 +95,7 @@ header {
   flex: 0 0 auto;
 }
 
+
 nav ul {
   list-style: none;
   padding: 0;
@@ -119,6 +128,7 @@ article {
 h1,
 h2,
 h3 {
+  font-family: var(--font-family-title);
   line-height: 1.3;
 }
 
