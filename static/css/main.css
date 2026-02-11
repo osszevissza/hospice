@@ -76,8 +76,6 @@ header {
 
 .menu-list {
   display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
   gap: 1rem;
   padding: 0;
   margin: 0;
@@ -88,30 +86,6 @@ header {
 .menu-list li {
   flex: 0 0 auto;
 }
-
-.scroll-left,
-.scroll-right {
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
-  padding: 0 0.5rem;
-}
-
-/* Alapból rejtett (desktop) */
-.scroll-left,
-.scroll-right {
-  display: none;
-}
-
-/* Mobilon jelenjen meg */
-@media (max-width: 768px) {
-  .scroll-left,
-  .scroll-right {
-    display: block;
-  }
-}
-
 
 nav ul {
   list-style: none;
@@ -181,14 +155,10 @@ footer nav ul {
 /* ====== RESZPONZÍV ====== */
 
 @media (max-width: 768px) {
+  /* Menüsor mobilon: 3-3-as grid */
   nav ul {
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
-  }
-
-{
-  .scroll-left,
-  .scroll-right {
-    display: none; /* Desktopon nincs nyíl */
   }
 }

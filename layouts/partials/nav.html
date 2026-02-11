@@ -1,17 +1,12 @@
-<nav aria-label="Fő navigáció" class="nav-wrapper">
-  <button class="scroll-left" aria-label="Menü görgetése balra">◀</button>
+<nav class="nav-wrapper" aria-label="Fő navigáció">
   <ul class="menu-list">
-    {{ range site.Menus.main }}
+    {{ range .Site.Menus.main }}
       <li>
-        <a href="{{ .URL }}"
-           {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
-             aria-current="page"
-           {{ end }}>
+        <a href="{{ .URL }}" {{ if .HasChildren }}aria-haspopup="true"{{ end }} 
+           {{ if .Page.IsMenuCurrent "main" . }}aria-current="page"{{ end }}>
           {{ .Name }}
         </a>
       </li>
     {{ end }}
   </ul>
-  <button class="scroll-right" aria-label="Menü görgetése jobbra">▶</button>
 </nav>
-
