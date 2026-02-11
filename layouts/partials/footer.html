@@ -1,0 +1,15 @@
+<footer>
+  <nav aria-label="Lábléc navigáció">
+    <ul>
+      {{ range .Site.Menus.footer }}
+        <li>
+          <a href="{{ .URL }}">
+            {{ .Name }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  <p>© {{ now.Year }} {{ .Site.Title }}</p>
+</footer>

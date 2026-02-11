@@ -1,0 +1,51 @@
+baseURL = "/"
+languageCode = "hu"
+title = "Hospice Alapítvány"
+
+[menus]
+
+  [[menus.main]]
+    name = "Kezdőlap"
+    pageRef = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Rólunk"
+    pageRef = "/rolunk"
+    weight = 20
+
+  [[menus.main]]
+    name = "Kölcsönzés"
+    pageRef = "/kolcsonzes"
+    weight = 30
+
+  [[menus.main]]
+    name = "Adományozás"
+    pageRef = "/adomanyozas"
+    weight = 40
+
+  [[menus.main]]
+    name = "Alapelvek"
+    pageRef = "/alapelvek"
+    weight = 50
+
+  [[menus.main]]
+  name = "Kapcsolat"
+  pageRef = "/kapcsolat"
+  weight = 60
+
+
+  [[menus.footer]]
+    name = "Impresszum"
+    pageRef = "/impresszum"
+    weight = 10
+
+  [[menus.footer]]
+    name = "Adatkezelés"
+    pageRef = "/adatkezeles"
+    weight = 20
+
+
+# html működjön .md-ben
+[markup.goldmark.renderer]
+unsafe = true

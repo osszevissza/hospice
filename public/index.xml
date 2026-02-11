@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kezdőlap on Hospice Alapítvány</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Kezdőlap on Hospice Alapítvány</description>
+    <generator>Hugo</generator>
+    <language>hu</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adatkezelés</title>
+      <link>http://localhost:1313/adatkezeles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/adatkezeles/</guid>
+      <description>&lt;p&gt;Tartalom hamarosan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adományozás</title>
+      <link>http://localhost:1313/adomanyozas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/adomanyozas/</guid>
+      <description>&lt;p&gt;Tartalom hamarosan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hospice alapelvek</title>
+      <link>http://localhost:1313/alapelvek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alapelvek/</guid>
+      <description>&lt;p&gt;Hozzájárulunk a daganatos betegek egyénre szabott ingyenes ápolásához, fájdalomcsillapításához, a méltóságuk utolsó pillanatig való megőrzéséhez és családjuk lelki támogatásához.&lt;/p&gt;&#xA;&lt;h2 id=&#34;holisztikus-sokoldalú-gondoskodás&#34;&gt;Holisztikus, sokoldalú gondoskodás&lt;/h2&gt;&#xA;&lt;p&gt;A hospice ellátás egyik legfontosabb jellemzője, hogy a beteg életminőségének javítását tűzte ki célul. Ennek megfelelően a gondoskodás nem csupán a beteg testi, hanem a lelki, szociális és spirituális igényeire, valamint a hozzátartozók segítésére is kiterjed mind a betegség fennállása, mind a gyász ideje alatt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;palliatív-kezelés-fájdalomcsillapítás&#34;&gt;Palliatív kezelés, fájdalomcsillapítás&lt;/h2&gt;&#xA;&lt;p&gt;A hospice ellátás életük utolsó szakaszában lé-vő betegeknek segít. Erre az állapotra különösen jellemzőek a kínzó tünetek, ezek enyhítése a hospice ellátás alapvető célja. A fájdalmak csillapítása folyamatosan és fokozatosan, meg-előző jelleggel történik, ezzel a minimálisra csökkenthetőek vagy teljesen megszűntethetőek a fájdalmak. Az egyéb tünetek enyhítése a palliatív terápia beállításánál szintén rugalmasan, egyénre szabottan történik.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impresszum</title>
+      <link>http://localhost:1313/impresszum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/impresszum/</guid>
+      <description>&lt;h2 id=&#34;alapadatok&#34;&gt;Alapadatok&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alapítvány neve:&lt;/strong&gt; Hospice Szeretetszolgálat Alapítvány&lt;br&gt;&#xA;&lt;strong&gt;Alapító:&lt;/strong&gt; Pongrácz István - nyugdíjas főaknász - 1994&lt;br&gt;&#xA;&lt;strong&gt;Alapítói jogok gyakorlója:&lt;/strong&gt; Hamar László&lt;br&gt;&#xA;&lt;strong&gt;Intézményvezető:&lt;/strong&gt; Dezső Tibor&lt;br&gt;&#xA;&lt;strong&gt;Jogi státusz:&lt;/strong&gt; Önálló jogi személy, közhasznú szervezet&lt;br&gt;&#xA;&lt;strong&gt;Nyilvántartásba vétel:&lt;/strong&gt; 1994. április 21., Komárom-Esztergom Megyei Bíróság&lt;br&gt;&#xA;&lt;strong&gt;Nyilvántartási szám:&lt;/strong&gt; 448&lt;br&gt;&#xA;&lt;strong&gt;Adószám:&lt;/strong&gt; 18602274-1-11&lt;br&gt;&#xA;&lt;strong&gt;Bankszámlaszám:&lt;/strong&gt; MBH Bank: 63300099-14912856-00000000&lt;br&gt;&#xA;&lt;strong&gt;Statisztikai azonosító:&lt;/strong&gt; 18602274/913356911&lt;br&gt;&#xA;&lt;strong&gt;Közhasznúsági szám:&lt;/strong&gt; Pk. 60.051/1994/17&lt;/p&gt;&#xA;&lt;h2 id=&#34;közhasznúsági-jelentések&#34;&gt;Közhasznúsági jelentések&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;2024. évi jelentés PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;2023. évi jelentés PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kapcsolat</title>
+      <link>http://localhost:1313/kapcsolat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kapcsolat/</guid>
+      <description>&lt;h2 id=&#34;ügyfélfogadás&#34;&gt;Ügyfélfogadás&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kedd:&lt;/strong&gt; 13:00-15:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Szerda:&lt;/strong&gt; 08:00-15:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Csütörtök:&lt;/strong&gt; 13:00-15:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hétfő és Péntek:&lt;/strong&gt; nincs ügyfélfogadás&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A nyári szabadásgolási időszakra való tekintettel sajálatos módon nem tudjuk folyamatosan biztosítani a telefonos elérhetőségünket. Javasoljuk az e-mailes megkeresést. Megértésüket köszönjük.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elérhetőség&#34;&gt;Elérhetőség&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hospice Szeretetszolgálat Alapítvány Nefelejcs Ápolási Intézete&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Székhely:&lt;/strong&gt; 2800 Tatabánya, Puskin u. 7/b.&lt;br&gt;&#xA;&lt;strong&gt;Telefon/fax:&lt;/strong&gt; 34/309-067&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:hospice.tatabanya@gmail.com&#34;&gt;hospice.tatabanya@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Web:&lt;/strong&gt; &lt;a href=&#34;http://www.hospicetatab.hu&#34;&gt;www.hospicetatab.hu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kölcsönzés</title>
+      <link>http://localhost:1313/kolcsonzes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kolcsonzes/</guid>
+      <description>&lt;p&gt;Intézményünk megkeresése alkalmával sok esetben tapasztaljuk, hogy egyre több családban van olyan tartós, szakápolásra szoruló idős vagy fiatalabb beteg, akiket a hozzátartozók a megfelelő eszközök rendelkezésre állása nélkül nem, vagy CSAK nehezen tudnak ápolni. Sokszor előfordul, hogy a beteg szívesebben marad saját környezetben, mint kórházban.&lt;/p&gt;&#xA;&lt;p&gt;Az ágyhoz kötött állapot alapvetően megviseli azt, akinek a kiszolgáltatott állapotot el kell szenvednie. A beteg ellátását megkönnyít(het)ik a megfelelő ápolási eszközök. Fekvőbeteg esetén a beteg tisztántartása, mozgatása könnyebb egy speciális ágyon. Olyan beteg esetében, akiknek fizikális állapotuk miatt nehezebb a helyváltoztatás, biztosabb egy kerekesszék, vagy járókeret használatával közlekedni.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rólunk</title>
+      <link>http://localhost:1313/rolunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rolunk/</guid>
+      <description>&lt;p&gt;Tartalom hamarosan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

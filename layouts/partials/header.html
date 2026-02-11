@@ -1,0 +1,11 @@
+<header>
+  <div class="site-header">
+    <p class="site-title">
+      <a href="{{ "/" | relURL }}">
+        {{ .Site.Title }}
+      </a>
+    </p>
+  </div>
+
+  {{ partial "nav.html" . }}
+</header>
